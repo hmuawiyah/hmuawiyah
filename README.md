@@ -24,19 +24,19 @@ Some of the tech I use to build web apps and I’m always adding more :rocket:
 
 ### :globe_with_meridians: Connect with Me
 
-<a href="https://www.linkedin.com/in/husein-muawiyah/">
+<a href="https://www.linkedin.com/in/husein-muawiyah/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/huseinmuawiyah/">
+<a href="https://www.instagram.com/huseinmuawiyah/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="mailto:huseinmuawiyah@gmail.com">
+<a href="mailto:huseinmuawiyah@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://husein-muawiyah.vercel.app/">
+<a href="https://husein-muawiyah.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
